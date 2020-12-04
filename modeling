@@ -1,8 +1,0 @@
-DECISION TREE
-Decision Tree - Classification and Regression
-
-df_cat = df[["txn_description", "gender", "age", "merchant_state", "movement"]]
-pd.get_dummies(df_cat).head()
-
-
-
